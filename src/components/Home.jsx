@@ -1,5 +1,4 @@
 import React from "react";
-
 import pic from "../../public/myphoto.jpeg";
 import { FaLinkedin } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
@@ -89,7 +88,6 @@ function Home() {
           </div>
         </div>
       </div>
-
       <hr />
     </>
   );

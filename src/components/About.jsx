@@ -80,7 +80,6 @@ function About() {
         </ul>
         <br />
         <br />
-
         <h1 className="text-green-600 font-semibold text-2xl mb-4">
           Professional Experience
         </h1>
