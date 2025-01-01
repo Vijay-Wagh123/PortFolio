@@ -47,7 +47,10 @@ function About() {
         <ul className="list-disc pl-5 space-y-3 text-gray-800">
           <li>
             <span className="text-lg font-bold">Programming Languages:</span>
-            <span className="text-m"> Proficient in Java,JS,Python, C++</span>
+            <span className="text-m">
+              {" "}
+              Proficient in Java,JS,C#,Python, C++
+            </span>
           </li>
           <li>
             <span className="text-lg font-bold">
@@ -55,8 +58,8 @@ function About() {
             </span>
             <span className="text-m">
               {" "}
-              Experienced with React, Spring Boot, MySQL, Hibernate, Git,
-              Microsoft Azure
+              Experienced with React, Spring Boot, MySQL, Hibernate,ASP .net
+              Web, api Git, Microsoft Azure
             </span>
           </li>
           <li>

@@ -7,6 +7,8 @@ import oracle from "../../public/oracle.png";
 import spring from "../../public/spring.png";
 import springBoot from "../../public/springBoot.jpg";
 import reactjs from "../../public/reactjs.png";
+import chsrap from "../../public/Csharp.png";
+import python from "../../public/python.png";
 function Experiance() {
   const cardItem = [
     {
@@ -48,6 +50,16 @@ function Experiance() {
       id: 7,
       logo: reactjs,
       name: "React",
+    },
+    {
+      id: 8,
+      logo: chsrap,
+      name: "C#",
+    },
+    {
+      id: 9,
+      logo: python,
+      name: "Python",
     },
   ];
   return (
