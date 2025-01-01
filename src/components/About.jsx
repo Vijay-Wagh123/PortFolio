@@ -58,8 +58,8 @@ function About() {
             </span>
             <span className="text-m">
               {" "}
-              Experienced with React, Spring Boot, MySQL, Hibernate,ASP .net
-              Web, api Git, Microsoft Azure
+              Experienced with React, Spring Boot, MySQL, Hibernate,ASP .net Web
+              api Git, Microsoft Azure
             </span>
           </li>
           <li>
